@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\79276\OneDrive\Рабочий стол\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79276\OneDrive\Рабочий стол\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(163): message : выполняется компиляция ссылки на экземпляр шаблон функции "void cocktailSort<Student>(std::vector<Student,std::allocator<Student>> &)"
+  ConsoleApplication1.vcxproj -> C:\Users\79276\OneDrive\Рабочий стол\C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
